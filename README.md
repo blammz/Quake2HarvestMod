@@ -21,8 +21,11 @@ Personal Deliverables were:
 
 
 To test this mod:
+
 First download and put moddy into the game directory, taking the shortcut as well.
+
 There you can either launch into it using the shortcut or launch the mod in game.
+
 Now for actual Testing:
 You will first need to give yourself some grenades and some money
 - you can use givemoney and give grenades for that
